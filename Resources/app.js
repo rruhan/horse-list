@@ -132,7 +132,7 @@ checkbox.addEventListener("change", function(e) {
 var HomeImg = Titanium.UI.createImageView({
 	width : 100,
 	height : 100,
-	image : '/images/Home_Main.png',
+	image : "/images/Horse.png",
 	opacity : 1,
 });
 
